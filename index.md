@@ -372,6 +372,12 @@ Edit the text to match who can attend the workshop. For instance:
 </p>
 {% endcomment %}
 
+<h2 id="registration">Registration</h2>
+<div class="list-group">
+  <a href="https://calendar.library.unt.edu/event/16889200" class="list-group-item list-group-item-warning">Register for this workshop via the UNT Library Calendar Event Page</a>
+</div>
+<hr/>
+
 {% comment %}
 Collaborative Notes
 
